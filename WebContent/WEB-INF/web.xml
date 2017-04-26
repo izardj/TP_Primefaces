@@ -7,7 +7,7 @@
 	<!-- Theme PrimeFaces -->
 	<context-param>
 		<param-name>primefaces.THEME</param-name>
-		<param-value>bluesky</param-value>
+		<param-value>bootstrap</param-value>
 	</context-param>
 	<servlet>
 		<servlet-name>Faces Servlet</servlet-name>
